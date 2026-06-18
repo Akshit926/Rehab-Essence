@@ -22,3 +22,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Brand guidelines and site content source PDFs
+*.pdf
+
+# Root duplicate asset files
+/logo.png
+/Pallavi Bhatt.jpg
